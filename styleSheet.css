@@ -9,3 +9,19 @@ h3{
 p{
   margin-left: 35px;
 }
+#para1{
+  margin-left: 10px;
+}
+a:link{
+  color: blue;
+}
+a:visited{
+  color: darkviolet;
+}
+a:hover{
+  color: green;
+  text-decoration: underline;
+}
+a:active{
+  color: pink;
+}
